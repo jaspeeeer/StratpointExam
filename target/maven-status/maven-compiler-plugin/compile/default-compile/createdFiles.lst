@@ -1,0 +1,7 @@
+com\justpurr\stratpoint\controllers\DefaultController.class
+com\justpurr\stratpoint\config\Config.class
+com\justpurr\stratpoint\dao\Name.class
+com\justpurr\stratpoint\dao\Profile.class
+com\justpurr\stratpoint\controllers\DefaultController$2.class
+com\justpurr\stratpoint\controllers\DefaultController$1.class
+com\justpurr\stratpoint\config\WebInitializer.class
