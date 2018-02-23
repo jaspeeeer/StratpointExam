@@ -8,4 +8,7 @@ JSP
 Created using Netbeans IDE
 Java 7
 
+*No config for constant
+*No service layer
+
 
